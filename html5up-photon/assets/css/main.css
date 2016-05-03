@@ -1935,6 +1935,14 @@
 			padding: 1em 1.5em;
 			overflow-x: auto;
 		}
+		
+		/* scrolling divs*/
+
+			.scroll {
+				width:200px;
+				height:500px;
+				overflow-y: scroll;
+				}
 
 	.align-left {
 		text-align: left;
@@ -3116,6 +3124,13 @@
 			}
 
 	}
+		/* scrolling divs*/
+
+			.scroll {
+				width:200px;
+				height:500px;
+				overflow-y: scroll;
+				}
 
 /* Large */
 
@@ -3151,6 +3166,14 @@
 
 				.main.style2 {
 					background-attachment: scroll;
+				}
+				
+					/* scrolling divs*/
+
+			.scroll {
+				width:200px;
+				height:500px;
+				overflow-y: scroll;
 				}
 
 		/* Header */
@@ -3194,6 +3217,14 @@
 			.main {
 				padding: 5em 3em 3em 3em ;
 			}
+			
+				/* scrolling divs*/
+
+			.scroll {
+				width:200px;
+				height:500px;
+				overflow-y: scroll;
+				}
 
 		/* Header */
 
@@ -3285,6 +3316,14 @@
 			.main {
 				padding: 3em 1.5em 1em 1.5em ;
 			}
+			
+				/* scrolling divs*/
+
+			.scroll {
+				width:200px;
+				height:500px;
+				overflow-y: scroll;
+				}
 
 		/* Header */
 
@@ -3358,10 +3397,10 @@
 			}
 		/* scrolling divs*/
 
-			div.scroll {
-				width: 150px;
-	    			height: 600px;
-				overflow: scroll;
+			.scroll {
+				width:200px;
+				height:500px;
+				overflow-y: scroll;
 				}
 
 		/* Header */
