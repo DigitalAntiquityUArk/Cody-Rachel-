@@ -3356,6 +3356,13 @@
 			.main {
 				padding: 2em 1.5em 0.1em 1.5em ;
 			}
+		/* scrolling divs*/
+
+			div.scroll {
+				width: 150px;
+	    			height: 600px;
+				overflow: scroll;
+				}
 
 		/* Header */
 
